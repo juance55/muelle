@@ -51,7 +51,7 @@
             </h2>
             <p>
                 Somos una entidad cuya meta es ofrecer al sector productivo pesquero ciertos servicios que sean de
-                utilidad paara mejorar la calidad de procesos pesqueros cuando las embarcaciones arriban a nuestra ciudad
+                utilidad paara mejorar la calidad de los procesos pesqueros cuando las embarcaciones arriban a nuestra ciudad
             </p>
         </div>
 
