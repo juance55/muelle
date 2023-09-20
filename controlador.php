@@ -7,7 +7,7 @@ if (!empty($_POST["send3"])){
        $contra=$_POST["contra"];
        $sql=$conex->query(" select * from usuarios where user='$user' and contra='$contra' ");
        if ($datos=$sql->fetch_object()){
-        header("location: mantenimientobarco.php");
+        header("location: /mantenimientobarco.php");
        }else{
         echo "Usuario no existente";
        }
